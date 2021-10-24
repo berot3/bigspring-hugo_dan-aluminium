@@ -15,7 +15,7 @@ feature:
   title : "Something You Need To Know"
   feature_item:
     # feature item loop
-    - name : "Clean Code"
+    - name : "Best windows in town!"
       icon : "fas fa-code"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
