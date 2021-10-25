@@ -98,7 +98,6 @@ build:
   - HUGO_ENV=staging
   - HUGO_VERSION=0.74.3
   - HUGO_BASEURL=/
-  - HUGO_THEME=repo
   preview_output_directory: exampleSite/public
   preview_docker_image: forestryio/hugo:latest
   mount_path: "/srv"
