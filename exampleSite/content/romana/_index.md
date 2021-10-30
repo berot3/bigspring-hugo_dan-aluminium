@@ -1,9 +1,9 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "Let us solve your critical website <br> development challenges"
-  image : "images/banner-art.svg"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus"
+  title : "Aducem ferestrele la ușa ta"
+  image : "https://d2d9lvctxcxwic.cloudfront.net/static/sites/52/2020/12/Reparatii-Termopane-Brasov-4.jpg"
+  content : "Atelier de reparare a geamurilor în Brașov"
   button:
     enable : true
     label : "Contact Us"
@@ -12,7 +12,7 @@ banner:
 ##################### Feature ##########################
 feature:
   enable : true
-  title : "Something You Need To Know"
+  title : "Experiență, seriozitate și profesionalism"
   feature_item:
     # feature item loop
     - name : "Best windows in town!"
@@ -32,7 +32,7 @@ feature:
     # feature item loop
     - name : "Value For Money"
       icon : "fas fa-heart"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "oferim garanție pentru lucrările executate"
       
     # feature item loop
     - name : "Faster Response"
@@ -40,9 +40,9 @@ feature:
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
     # feature item loop
-    - name : "Cloud Support"
+    - name : "servicii de reparații"
       icon : "fas fa-cloud"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "Vă oferim servicii de reparații termopane pentru zona Brașov și împrejurimi în cel mai scurt timp la prețuri foarte convenabile."
       
 
 
@@ -51,19 +51,19 @@ service:
   enable : true
   service_item:
     # service item loop
-    - title : "It is the most advanced digital marketing and it company."
+    - title : "📣Apelați cu încredere !💯"
       images:
       - "images/service-1.png"
       - "images/service-2.png"
       - "images/service-3.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      content : "Plasa pentru tânțari reprezintă soluția simplă și rapidă de protejare  a locuinței de insectele nedorite în interiorul casei. /n Dacă vă doriți încăperi liniștite, lipsite de “musafiri nepoftiți”, gama de plase insecte, de diferite dimensiuni, vine în sprijinul dumneavoastră. Cu ajutorul plaselor pentru geam termopan, încăperile pot fi aerisite fără gândul că insectele ar putea pătrunde în casă, fiind un ajutor pentru păstrarea ordinii și liniștii din spațiul de locuit. Noi acoperim o sferă variată de servicii și aducem mulțumire tuturor clienților noștri, care ne recomandă, așa că puneți-vă toată încrederea în noi !"
       button:
         enable : true
         label : "Check it out"
         link : "#"
         
     # service item loop
-    - title : "It is a privately owned Information and cyber security company"
+    - title : "Experiență, seriozitate și profesionalism"
       images:
       - "images/service-1.png"
       content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
@@ -103,11 +103,11 @@ screenshot:
 ##################### Call to action #####################
 call_to_action:
   enable : true
-  title : "Ready to get started?"
+  title : "Sunteți gata să începeți?"
   image : "images/cta.svg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
+  content : "Noi acoperim o sferă variată de servicii și aducem mulțumire tuturor clienților noștri, care ne recomandă, așa că puneți-vă toată încrederea în noi !"
   button:
     enable : true
-    label : "Contact Us"
+    label : "Contactează-ne"
     link : "contact"
 ---
