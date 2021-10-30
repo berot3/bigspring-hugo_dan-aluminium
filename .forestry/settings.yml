@@ -101,5 +101,5 @@ build:
   preview_docker_image: forestryio/hugo:latest
   mount_path: "/srv"
   working_dir: "/srv"
-  instant_preview_command: hugo server --themesDir ../..
+  instant_preview_command: hugo server --themesDir ./
 version: 0.74.3
