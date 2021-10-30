@@ -1,0 +1,23 @@
+[readmore]
+other = "Citeste mai mult"
+
+[translations]
+other="Traduceri"
+
+[error404]
+other = "Ne pare foarte rău, dar se pare că nu este nimic aici."
+
+[yourname]
+other = "Numele dumneavoastră"
+
+[youremail]
+other = "Email-ul tau"
+
+[subject]
+other = "Subiect"
+
+[yourmessage]
+other = "Mesajul tau"
+
+[sendnow]
+other = "Trimite acum"
