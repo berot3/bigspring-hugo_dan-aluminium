@@ -97,7 +97,7 @@ build:
   preview_env:
   - HUGO_VERSION=0.74.3
   - HUGO_BASEURL=/
-  preview_output_directory: exampleSite/public
+  preview_output_directory: public
   preview_docker_image: forestryio/hugo:latest
   mount_path: "/srv"
   working_dir: "/srv"
