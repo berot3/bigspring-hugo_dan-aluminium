@@ -14,6 +14,9 @@ sections:
 - type: document
   path: exampleSite/content/deutsch/_index.md
   label: Homepage (de)
+- type: document
+  path: exampleSite/content/romana/_index.md
+  label: Homepage (ro)
 - type: heading
   label: Blog
 - type: document
@@ -22,6 +25,9 @@ sections:
 - type: document
   path: exampleSite/content/deutsch/blog/_index.md
   label: Blog Page (de)
+- type: document
+  path: exampleSite/content/romana/blog/_index.md
+  label: Blog Page (ro)
 - type: directory
   path: exampleSite/content/english/blog
   label: Blog Post (en)
@@ -38,6 +44,14 @@ sections:
   exclude: _index.md
   templates:
   - post
+- type: directory
+  path: exampleSite/content/romana/blog
+  label: Blog Post (ro)
+  create: documents
+  match: "**/*"
+  exclude: _index.md
+  templates:
+  - post
 - type: heading
   label: Others Page
 - type: document
@@ -47,17 +61,26 @@ sections:
   path: exampleSite/content/deutsch/contact/_index.md
   label: Contact (de)
 - type: document
+  path: exampleSite/content/romana/contact/_index.md
+  label: Contact (ro)
+- type: document
   path: exampleSite/content/english/pricing/_index.md
   label: Pricing (en)
 - type: document
   path: exampleSite/content/deutsch/pricing/_index.md
   label: Pricing (de)
 - type: document
+  path: exampleSite/content/romana/pricing/_index.md
+  label: Pricing (ro)
+- type: document
   path: exampleSite/content/english/faq/_index.md
   label: FAQ (en)
 - type: document
   path: exampleSite/content/deutsch/faq/_index.md
   label: FAQ (de)
+- type: document
+  path: exampleSite/content/romana/faq/_index.md
+  label: FAQ (ro)
 - type: heading
   label: All Pages
 - type: directory
@@ -88,6 +111,9 @@ sections:
 - type: document
   path: exampleSite/config/_default/menus.de.toml
   label: Menu (de)
+- type: document
+  path: exampleSite/config/_default/menus.ro.toml
+  label: Menu (ro)
 upload_dir: ''
 public_path: ''
 front_matter_path: ''
