@@ -7,7 +7,9 @@
 	"settings": {},
 	"extensions": {
 		"recommendations": [
-			"bungcip.better-toml"
+			"bungcip.better-toml",
+			"eamodio.gitlens-insiders",
+			"github.vscode-pull-request-github"
 		]
 	}
 }
