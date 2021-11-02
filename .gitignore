@@ -7,5 +7,13 @@ npm-debug.log
 node_modules
 builds
 package-lock.json
-public
-resources
+
+### Hugo ###
+# Generated files by hugo
+/public/
+/resources/_gen/
+
+# Executable may be added to repository
+hugo.exe
+hugo.darwin
+hugo.linux
